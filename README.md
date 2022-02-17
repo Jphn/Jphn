@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jphn
 - 👀 I’m interested in games and programming
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning VueJS and NodeJS
 - 💞️ I’m looking to collaborate on anything that I can
 - 🛠️ Now working on 2 projects. News soon...
 - 🇧🇷 Brasil, CE
