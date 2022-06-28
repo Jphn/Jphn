@@ -17,9 +17,9 @@ _______________/\/\_______________________________
 <br>
 
 - ⚔️ I'm a humble full stack adventurous.
-- 🪄 Some of the spells I use are PHP, VueJS, NodeJS.
-- 🗺️ I'm currently exploring Brazil, CE.
-- 📖 I am proficient in Portuguese and English.
+- 🪄 Some of the spells I use are PHP, VueJS and NodeJS.
+- 🗺️ Currently grinding dungeons in Brazil, CE.
+- 📖 My language proficiencies are Portuguese and English.
 
 <br>
 
