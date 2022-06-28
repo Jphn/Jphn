@@ -25,7 +25,7 @@ _______________/\/\_______________________________
 
 <div align="center"><img src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" width="100" height="100"></div>
 
-<h2 align="center">Looks like you found a bonfire... Come back here any time.</h2>
+<h2 align="center">Looks like you found a bonfire... Travel back here any time.</h2>
 
 <div align="center">
 <a href="https://discordapp.com/users/379290686899355648" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></img></a>
