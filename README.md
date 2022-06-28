@@ -9,10 +9,10 @@ _______________/\/\_______________________________
 
 </pre>
 
-<div align="center"><img src="https://c.tenor.com/5ry-200hErMAAAAC/hacker-hacker-man.gif" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/hacker-hacker-man.gif" width="100" height="100"></div>
 
 <h2 align="center">Hi traveler, I'm Jphn.</h2>
-<h3 align="center">Here☕, take a coffee potion while exploring these repositories.</h3>
+<h3 align="center">Here☕, take an energy potion while exploring these repositories.</h3>
 
 <br>
 
@@ -23,7 +23,7 @@ _______________/\/\_______________________________
 
 <br>
 
-<div align="center"><img src="https://i.pinimg.com/originals/80/21/74/8021744fc275101ed9a4b75ace41f168.gif" width="100" height="100"></div>
+<div align="center"><img src="./assets/img/bonfire.gif" width="100" height="100"></div>
 
 <h2 align="center">Looks like you found a bonfire... Travel back here any time.</h2>
 
@@ -36,7 +36,7 @@ _______________/\/\_______________________________
 </div>
 
 <div>
-<img align="left" src="https://i.pinimg.com/originals/e6/10/9e/e6109e32a9ac1a8f2496d7fba78e9c84.gif" height="80">
+<img align="left" src="./assets/img/estus-flask.gif" height="80">
 </div>
 <!-- <div>
 <img align="left" src="https://i.pinimg.com/originals/df/7a/09/df7a0917f63046928f6a9b80838efdaf.gif" height="100">
