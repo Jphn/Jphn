@@ -32,7 +32,7 @@ _______________/\/\_______________________________
 <a href="mailto:joaopedroholandaneves@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
 <a href="https://t.me/jphn_l" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></img></a>
 <a href="https://www.instagram.com/jopee_l/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href="https://www.linkedin.com/in/jphn75179216/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/jphn/" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
 
 <div>
