@@ -12,7 +12,7 @@ _______________/\/\_______________________________
 <div align="center"><img src="./assets/img/hacker-hacker-man.gif" width="100" height="100"></div>
 
 <h2 align="center">Hi traveler, I'm Jphn.</h2>
-<h3 align="center">Here☕, take an energy potion while exploring these repositories.</h3>
+<h3 align="center">Here ☕, take an energy potion while exploring these repositories.</h3>
 
 <br>
 
